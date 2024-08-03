@@ -8,6 +8,5 @@ Next hit build and you'll have your DLL.
 
 # Install
 Download or Build your Dll  
-Download Link: https://www.dropbox.com/scl/fi/q7qjbj2iiw96dtvyhyw0e/Ad_d_Text.dll?rlkey=mu2k05yd0h9xo5j16h1qm25ia&st=36l5o1sz&dl=0  
 Install BepInEx into your game and the DLL to the plugin folder. (https://docs.bepinex.dev/articles/user_guide/installation/index.html)  
 Configs for the mod will automatically be generated after starting the game once.  
